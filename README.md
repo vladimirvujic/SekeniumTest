@@ -1,2 +1,2 @@
-# SekeniumTest
+# SeleniumTest
 My first project
